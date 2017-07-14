@@ -1,4 +1,4 @@
-# Poroject 2 - Image Classification
+# Project 2 - Image Classification
 This is my second project submission for the Udacity Deep Learning Foundations Nanodegree. 6 weeks ago I was completely new to programming so this was a bit of stretch for me. 
 
 A large amount of the code was provided in the beginning. The project required the 'TO DO' sections to be filled in.
